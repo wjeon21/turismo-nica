@@ -6,8 +6,8 @@
     box-sizing: border-box;
 }
 body {
-        
-       -webkit-background-size: cover;
-       background-size: cover;
-       background-attachment: fixed;
+    background-image: url('/recursos/imagenes/fondo01.jpg');
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
 }
