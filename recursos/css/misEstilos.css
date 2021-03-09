@@ -1,12 +1,12 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 5px;
+    padding: 2px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 body {
-    background-image: url('/recursos/imagenes/fondo01.jpg');
+    background-image: url('../imagenes/fondo01.jpg');
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
