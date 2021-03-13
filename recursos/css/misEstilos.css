@@ -36,7 +36,7 @@ nav ul {
 section h1 {
     text-align: center;
     background-position: center;
-    font-size: 50px;
+    font-size: 60px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav li {
@@ -60,8 +60,7 @@ article {
 }
 article p {
     color: white;
-    margin-left: 250px;
-    font-size: 18px;
+    font-size: 19px;
 }
 table {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -71,7 +70,7 @@ table {
     color: white;
     align-content: center;
     text-align: center;
-    margin-left: 600px;
+   
 }
 table tbody tr td ul li {
     margin-left: 20px;
