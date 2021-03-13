@@ -30,6 +30,11 @@ nav ul {
     margin: 8px;
     padding: 2px;
 }
+section h1 {
+    text-align: center;
+    background-position: center;
+    font-size: 50px;
+}
 nav li {
     display: inline;
 }
