@@ -34,6 +34,7 @@ section h1 {
     text-align: center;
     background-position: center;
     font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav li {
     display: inline;
@@ -48,5 +49,10 @@ nav li a:hover {
     background-color: cadetblue;
     margin: 1px;
     padding: 10px;
+    
+}
+table {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-collapse: collapse;
     
 }
