@@ -53,6 +53,10 @@ nav li a:hover {
     padding: 10px;
     
 }
+article {
+    position: relative;
+    float: left;
+}
 article p {
     color: white;
     margin-left: 200px;
@@ -65,5 +69,6 @@ table {
     color: white;
     margin-right: 150px;
     float: right;
-    justify-content: center;
+    position: relative;
+    margin-bottom: 50px;
 }
