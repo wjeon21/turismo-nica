@@ -10,16 +10,6 @@ body {
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
-    position: relative;
-}
-.goup {
-    background: #76aadb;
-    bottom: 0px;
-    display: block;
-    height: 50px;
-    position: fixed;
-    right: 0px;
-    width: 50px;
 }
 header {
     text-align: center;
