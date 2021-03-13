@@ -15,8 +15,9 @@ header {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(83, 139, 141);
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     color: rgb(255, 255, 255);
+    padding: 10px;
 }
 main {
     background-color: rgba(0, 0, 0, 0.699);
@@ -49,7 +50,7 @@ nav li a {
     font-size: large;
 }
 nav li a:hover {
-    background-color: rgb(56, 132, 134);
+    background-color: rgb(39, 93, 95);
     margin: 10px;
     padding: 20px;
     
